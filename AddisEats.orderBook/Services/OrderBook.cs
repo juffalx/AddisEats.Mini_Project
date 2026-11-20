@@ -1,36 +1,68 @@
 namespace AddisEats.OrderBook.Services;
+
 using AddisEats.OrderBook.Models;
 
 public class OrderBook
 {
-     public  List<Order> Orders {get; set;} = new();
+    private readonly List<Order> _orders = new();
 
-// returning orders for an area by total descending
-
-    public void AddOrder(Order orders)
+    public void AddOrder(Order order)
     {
-        Orders.Add(orders);
+        _orders.Add(order);
     }
-     public void DisplayResult(string Area, int N)
+
+    public void DisplayResult(string area, int pageNumber)
     {
-        var result = Orders
-        .Where(o => o.Area == Area)
-        .OrderByDescending(o => o.Total);
+        // Get orders for the requested area, highest total first
+        var result = _orders
+            .Where(o => o.Area == area)
+            .OrderByDescending(o => o.Total)
+            .ToList();
 
-        var TotalRevenue = result.Sum(r => r.Total);
+        // Total revenue
+        var totalRevenue = result.Sum(o => o.Total);
 
-        // var busiestCategory = result.Count(r => r.Lines.Item.Category);
+        // Total orders
+        var totalOrders = result.Count;
 
-        var TotalOrder = result.Count();
+        // Busiest category by quantity ordered
+        var busiestCategory = result
+            .SelectMany(o => o.Lines)
+            .GroupBy(line => line.Item.Category)
+            .Select(group => new
+            {
+                Category = group.Key,
+                Quantity = group.Sum(line => line.Quantity)
+            })
+            .OrderByDescending(group => group.Quantity)
+            .FirstOrDefault();
 
-        var FivePerPage = result.Skip((N - 1) * 5).Take(5).ToList();
+        // Pagination: five orders per page
+        var fivePerPage = result
+            .Skip((pageNumber - 1) * 5)
+            .Take(5)
+            .ToList();
 
-        Console.WriteLine($"Total Revenue:              {TotalRevenue} ETB");
-        Console.WriteLine($"Total Orders:               {TotalOrder}");
-        // Console.WriteLine("busiest Category :       ", busiestCategory);
-        Console.WriteLine($"Page {N} is total :        {FivePerPage.Count} Orders");
+        // Customer names on the current page
+        var customerNames = fivePerPage
+            .Select(o => o.Customer)
+            .ToList();
 
-        FivePerPage.Select(o => o.Customer).ToList();
+        // Display report
+        Console.WriteLine($"Area: {area}");
+        Console.WriteLine($"Total Revenue: {totalRevenue} ETB");
+        Console.WriteLine($"Total Orders: {totalOrders}");
 
+        Console.WriteLine(
+            $"Busiest Category: {busiestCategory?.Category ?? "No orders"}"
+        );
+
+        Console.WriteLine(
+            $"Page {pageNumber}: {fivePerPage.Count} Orders"
+        );
+
+        Console.WriteLine(
+            $"Customers: {string.Join(", ", customerNames)}"
+        );
     }
 }
