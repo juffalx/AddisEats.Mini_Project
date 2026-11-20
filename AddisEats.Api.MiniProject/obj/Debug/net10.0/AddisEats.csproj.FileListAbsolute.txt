@@ -1,0 +1,72 @@
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\bin\Debug\net10.0\appsettings.Development.json
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\bin\Debug\net10.0\appsettings.json
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\bin\Debug\net10.0\AddisEats.staticwebassets.endpoints.json
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\bin\Debug\net10.0\AddisEats.exe
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\bin\Debug\net10.0\AddisEats.deps.json
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\bin\Debug\net10.0\AddisEats.runtimeconfig.json
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\bin\Debug\net10.0\AddisEats.dll
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\bin\Debug\net10.0\AddisEats.pdb
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\obj\Debug\net10.0\AddisEats.csproj.AssemblyReference.cache
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\obj\Debug\net10.0\AddisEats.GeneratedMSBuildEditorConfig.editorconfig
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\obj\Debug\net10.0\AddisEats.AssemblyInfoInputs.cache
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\obj\Debug\net10.0\AddisEats.AssemblyInfo.cs
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\obj\Debug\net10.0\AddisEats.csproj.CoreCompileInputs.cache
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\obj\Debug\net10.0\AddisEats.MvcApplicationPartsAssemblyInfo.cs
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\obj\Debug\net10.0\AddisEats.MvcApplicationPartsAssemblyInfo.cache
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\obj\Debug\net10.0\AddisEats.sourcelink.json
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\obj\Debug\net10.0\scopedcss\bundle\AddisEats.styles.css
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\obj\Debug\net10.0\staticwebassets.build.json
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\obj\Debug\net10.0\staticwebassets.development.json
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\obj\Debug\net10.0\swae.build.ex.cache
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\obj\Debug\net10.0\AddisEats.csproj.Up2Date
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\obj\Debug\net10.0\AddisEats.dll
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\obj\Debug\net10.0\refint\AddisEats.dll
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\obj\Debug\net10.0\AddisEats.pdb
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\obj\Debug\net10.0\AddisEats.genruntimeconfig.cache
+D:\IBT\IBT\codeops-portfolio\Module-04\day54\AddisEats\obj\Debug\net10.0\ref\AddisEats.dll
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\bin\Debug\net10.0\appsettings.Development.json
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\bin\Debug\net10.0\appsettings.json
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\bin\Debug\net10.0\AddisEats.staticwebassets.endpoints.json
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\bin\Debug\net10.0\AddisEats.exe
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\bin\Debug\net10.0\AddisEats.deps.json
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\bin\Debug\net10.0\AddisEats.runtimeconfig.json
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\bin\Debug\net10.0\AddisEats.dll
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\bin\Debug\net10.0\AddisEats.pdb
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\obj\Debug\net10.0\AddisEats.csproj.AssemblyReference.cache
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\obj\Debug\net10.0\AddisEats.GeneratedMSBuildEditorConfig.editorconfig
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\obj\Debug\net10.0\AddisEats.AssemblyInfoInputs.cache
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\obj\Debug\net10.0\AddisEats.AssemblyInfo.cs
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\obj\Debug\net10.0\AddisEats.csproj.CoreCompileInputs.cache
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\obj\Debug\net10.0\AddisEats.MvcApplicationPartsAssemblyInfo.cs
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\obj\Debug\net10.0\AddisEats.MvcApplicationPartsAssemblyInfo.cache
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\obj\Debug\net10.0\AddisEats.sourcelink.json
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\obj\Debug\net10.0\scopedcss\bundle\AddisEats.styles.css
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\obj\Debug\net10.0\staticwebassets.build.json
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\obj\Debug\net10.0\staticwebassets.development.json
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\obj\Debug\net10.0\swae.build.ex.cache
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\obj\Debug\net10.0\AddisEats.csproj.Up2Date
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\obj\Debug\net10.0\AddisEats.dll
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\obj\Debug\net10.0\refint\AddisEats.dll
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\obj\Debug\net10.0\AddisEats.pdb
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\obj\Debug\net10.0\AddisEats.genruntimeconfig.cache
+D:\IBT\Asp.NET\Mini Project\AddisEats.Api.MiniProject\obj\Debug\net10.0\ref\AddisEats.dll
