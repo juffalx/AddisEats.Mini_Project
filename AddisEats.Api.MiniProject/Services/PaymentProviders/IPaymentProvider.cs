@@ -1,5 +1,5 @@
-
+namespace AddisEats.Services.PaymentProviders;
 public interface IPaymentProvider
 {
-    public string Pay(decimal price);
+    string Pay(decimal price);
 }

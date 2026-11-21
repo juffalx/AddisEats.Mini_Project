@@ -1,6 +1,7 @@
 using AddisEats.Services.MenuService;
 using AddisEats.Models;
 using AddisEats.Services.Clock;
+using AddisEats.Services.PaymentProviders;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,12 +12,16 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<IMenuService, MenuService>();
 builder.Services.AddScoped<IClock, Clock>();
-builder.Services.AddScoped<IClock, Clock>();
+builder.Services.AddScoped<IPaymentProvider, CbeBirrProvider>();
 // builder.Services.AddTransient<IClock, Clock>();
 // builder.Service<IClock, Clock>();
 
 builder.Services.Configure<MenuOptions>(
     builder.Configuration.GetSection("MenuOptions"));
+
+builder.Services.Configure<DeliveryOptions>(
+    builder.Configuration.GetSection("DeliveryOption")
+);
 
 builder.Services.AddCors(o => o.AddPolicy("frontend", p =>
 p.WithOrigins("http://localhost:5173") // Vite

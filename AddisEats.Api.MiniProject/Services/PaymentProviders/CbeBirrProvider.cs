@@ -1,9 +1,9 @@
-namespace AddisEats.Services.PaymentProviders;
+    namespace AddisEats.Services.PaymentProviders;
 
-public class CbeBirrProvider : IPaymentProvider
-{
-    public var Pay(decimal price)
+    public class CbeBirrProvider : IPaymentProvider
     {
-        return $"Payder {price} in CBE Birr";
+        public string Pay(decimal price)
+        {
+            return $"Payder {price} in CBE Birr";
+        }
     }
-}
