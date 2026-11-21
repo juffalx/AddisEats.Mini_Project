@@ -40,7 +40,8 @@ if (app.Environment.IsDevelopment())
 }
 app.UseCors("frontend");
 app.UseHttpsRedirection();
-app.UseAuthentication();
+
+app.UseAuthentication();// add before Authorization
 
 app.UseAuthorization();
 
